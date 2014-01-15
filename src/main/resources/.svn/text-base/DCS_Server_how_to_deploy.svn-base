@@ -1,0 +1,99 @@
+instructions on how to deploy to DCS server:
+===========================================================================================
+well... good news:
+I was right and my supposition worked out very well :)
+After fixing the issues I posted before, now it's deployed perfectly! Link on DCS is:
+
+http://bourbon:38007/ElectronicJournal/
+
+-Webapp log can be found at:
+
+/usr/share/apache-tomcat-7.0.39/logs/catalina.out (in the virtual server)
+
+-I've made the deployment super easy now, and here are the steps to deploy if you guys need to:
+
+.go to ( http://bourbon:38007/manager/ ) [this is the link for tomcat manager]
+.login as un: geo , pw: geo
+.go to 'Manage apps' or maybe you be already on the screen called 'Tomcat Web Application Manager'
+.press 'Undeploy' button on the table row with our webapp name
+.go down and 'select WAR file to deploy' (after exporting our project to .war)
+.upload, and that's all! (you can choose the file in your local machine)
+.reload and see it working.
+
+additional details:
+i created a script for the virtual server, you can use 'putty' app to connect to it, and run the following commands if needed:
+'tomcat start'
+'tomcat stop'
+
+to access the university network from home, follow these instructions:
+http://www.sheffield.ac.uk/cics/vpn/vpnmac5
+
+don't forget to change hibernate from 'create' to 'update' if don't want to re-create DB every time deployed.
+===========================================================================================
+stuff i had to do -just to remember next time we deploy- :
+
+ref: https://guide.dcs.shef.ac.uk/Teachnet/VirtualMachines
+
+0.1- open putty, connect to: bourbon:30007 , using SSH:
+un: root
+pw: ymu5nwrl
+
+0.2- DCS MySQL database:
+host: stusql.dcs.shef.ac.uk
+un: team098
+pw: 16b22826
+---------don't forget to put /databasename after host!
+
+0.3- see system.out of your web app in tomcat/logs/catalina.out
+
+0.4- edit tomcat/conf/tomcat-users.xml (or sth like that) to add new manager,admin role to some un:pw.
+after that, go to localhost:8080/manager or whatever/manager, and manage your webapps or upload a .war file.
+
+1- export .war file
+2- move to /usr/share/~tomcat~/webapp/ using 'WinSCP' software
+3- rename .war file if didnt generate the folder remotely
+4- edit /etc/httpd/conf/httpd.conf file, add at the end entries:
+JkMount /com6514stageone worker
+JkMount /com6514stageone/* worker
+!!!!!IMPORTANT::: add the exact name of the folder... if you deploy as ElectronicJournal, so, add this:
+JkMount /ElectronicJournal worker
+JkMount /ElectronicJournal/* worker
+
+5- save file, stop/start httpd server via 'PuTTy' software:
+apachectl stop
+apachectl start
+
+6- stop/start tomcat if needed:
+service tomcat stop
+service tomcat start
+//its possible because i created a script following one of the links i sent u before.
+
+7- access your webapp using the url: http://bourbon:38007/com6514stageone/
+
+Done!
+================================================================================================
+Dear Isma'il,
+
+Dave has now informed me that your VPS account is now ready. See the guide
+below on how to access the account.
+
+> (Java E-Commerce Team O)
+>
+> Your name:  Isma'il Aliyu
+> Your email:  ialiyu1@sheffield.ac.uk
+> Your loginID:  acp12ia
+===========================================================================================
+useful links to get it working:
+http://tomcat.apache.org/connectors-doc/webserver_howto/apache.html
+http://tomcat.apache.org/connectors-doc/generic_howto/quick.html
+http://www.ntu.edu.sg/home/ehchua/programming/howto/ApachePlusTomcat_HowTo.html <<<VERYGOOD>>>
+http://www.simplehelp.net/2008/12/11/how-to-download-files-from-the-linux-command-line/
+http://www.davidghedini.com/pg/entry/install_tomcat_7_on_centos
+https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/Deployment_Guide/s1-apache-startstop.html
+http://www.bluhm-de.com/en_GB/installing-mod_jk-on-apache-2.2-on-fedora-12
+
+softwares for windows:
+putty
+winscp
+take a look at PuTTy and winscp softwares for windows to help on how to copy our server to remote server
+===========================================================================================

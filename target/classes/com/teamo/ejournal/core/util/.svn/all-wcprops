@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geosvn/!svn/ver/218/ElectronicJournal/src/main/java/com/teamo/ejournal/core/util
+END
+UploadUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geosvn/!svn/ver/104/ElectronicJournal/src/main/java/com/teamo/ejournal/core/util/UploadUtils.java
+END
+JacksonJSONUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/99/ElectronicJournal/src/main/java/com/teamo/ejournal/core/util/JacksonJSONUtils.java
+END
+EmailUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geosvn/!svn/ver/218/ElectronicJournal/src/main/java/com/teamo/ejournal/core/util/EmailUtils.java
+END
+RequestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geosvn/!svn/ver/89/ElectronicJournal/src/main/java/com/teamo/ejournal/core/util/RequestUtils.java
+END
+AjaxUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geosvn/!svn/ver/67/ElectronicJournal/src/main/java/com/teamo/ejournal/core/util/AjaxUtils.java
+END

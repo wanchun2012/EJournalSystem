@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/geosvn/!svn/ver/215/ElectronicJournal/src/main/resources
+END
+log4j.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/geosvn/!svn/ver/215/ElectronicJournal/src/main/resources/log4j.xml
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geosvn/!svn/ver/9/ElectronicJournal/src/main/resources/messages.properties
+END
+import.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/geosvn/!svn/ver/212/ElectronicJournal/src/main/resources/import.sql
+END
+DCS_Server_how_to_deploy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geosvn/!svn/ver/213/ElectronicJournal/src/main/resources/DCS_Server_how_to_deploy
+END
+hibernate.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geosvn/!svn/ver/214/ElectronicJournal/src/main/resources/hibernate.properties
+END

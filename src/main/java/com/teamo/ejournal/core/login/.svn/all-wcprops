@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geosvn/!svn/ver/83/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login
+END
+Assembler.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/geosvn/!svn/ver/83/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/Assembler.java
+END
+LoginServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/geosvn/!svn/ver/83/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/LoginServiceImpl.java
+END
+AuthenticatedUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geosvn/!svn/ver/83/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/AuthenticatedUser.java
+END
+LoginAuthenticationSuccessHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/geosvn/!svn/ver/83/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/LoginAuthenticationSuccessHandler.java
+END
+ChangePasswordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geosvn/!svn/ver/16/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/ChangePasswordController.java
+END
+LoginController.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/67/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/LoginController.java
+END
+TempRegisterController.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geosvn/!svn/ver/16/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/TempRegisterController.java
+END
+LoginAuthenticationFailureHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/geosvn/!svn/ver/67/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/LoginAuthenticationFailureHandler.java
+END
+ForgottenPasswordController.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/geosvn/!svn/ver/67/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/ForgottenPasswordController.java
+END
+SystemPermissionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/geosvn/!svn/ver/83/ElectronicJournal/src/main/java/com/teamo/ejournal/core/login/SystemPermissionEvaluator.java
+END

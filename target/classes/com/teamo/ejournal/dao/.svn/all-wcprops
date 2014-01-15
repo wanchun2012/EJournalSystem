@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geosvn/!svn/ver/197/ElectronicJournal/src/main/java/com/teamo/ejournal/dao
+END
+ArticleDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geosvn/!svn/ver/172/ElectronicJournal/src/main/java/com/teamo/ejournal/dao/ArticleDAOImpl.java
+END
+JournalDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geosvn/!svn/ver/195/ElectronicJournal/src/main/java/com/teamo/ejournal/dao/JournalDAOImpl.java
+END
+ReviewDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/geosvn/!svn/ver/153/ElectronicJournal/src/main/java/com/teamo/ejournal/dao/ReviewDAOImpl.java
+END
+LoginDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geosvn/!svn/ver/10/ElectronicJournal/src/main/java/com/teamo/ejournal/dao/LoginDAOImpl.java
+END
+SubscribeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geosvn/!svn/ver/197/ElectronicJournal/src/main/java/com/teamo/ejournal/dao/SubscribeDAOImpl.java
+END
+UserDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geosvn/!svn/ver/138/ElectronicJournal/src/main/java/com/teamo/ejournal/dao/UserDAOImpl.java
+END

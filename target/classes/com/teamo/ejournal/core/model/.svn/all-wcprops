@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geosvn/!svn/ver/201/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/geosvn/!svn/ver/99/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/Author.java
+END
+EditorAddEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/128/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/EditorAddEmail.java
+END
+ReviewSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/geosvn/!svn/ver/99/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/ReviewSystem.java
+END
+SubscribableEmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geosvn/!svn/ver/99/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/SubscribableEmail.java
+END
+IndicateEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/147/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/IndicateEditor.java
+END
+NewReviewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/geosvn/!svn/ver/136/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/NewReviewer.java
+END
+ServerResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/136/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/ServerResponse.java
+END
+DownloadableArticles.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geosvn/!svn/ver/137/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/DownloadableArticles.java
+END
+JournalSettingsForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/geosvn/!svn/ver/201/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/JournalSettingsForm.java
+END
+ReviewForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geosvn/!svn/ver/141/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/ReviewForm.java
+END
+ArticleUpload.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/geosvn/!svn/ver/99/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/ArticleUpload.java
+END
+UploadItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geosvn/!svn/ver/99/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/UploadItem.java
+END
+SubscribableKeyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geosvn/!svn/ver/99/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/SubscribableKeyword.java
+END
+AuthorComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geosvn/!svn/ver/137/ElectronicJournal/src/main/java/com/teamo/ejournal/core/model/AuthorComment.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geosvn/!svn/ver/220/ElectronicJournal/src/main/java/com/teamo/ejournal/core
+END
+GlobalExceptionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/geosvn/!svn/ver/67/ElectronicJournal/src/main/java/com/teamo/ejournal/core/GlobalExceptionHandler.java
+END
+UploadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geosvn/!svn/ver/99/ElectronicJournal/src/main/java/com/teamo/ejournal/core/UploadController.java
+END
+EditorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geosvn/!svn/ver/220/ElectronicJournal/src/main/java/com/teamo/ejournal/core/EditorController.java
+END
+AuthorController.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geosvn/!svn/ver/220/ElectronicJournal/src/main/java/com/teamo/ejournal/core/AuthorController.java
+END
+SubscribeController.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geosvn/!svn/ver/204/ElectronicJournal/src/main/java/com/teamo/ejournal/core/SubscribeController.java
+END
+MainController.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/geosvn/!svn/ver/220/ElectronicJournal/src/main/java/com/teamo/ejournal/core/MainController.java
+END
+ArticleUploadController.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/geosvn/!svn/ver/137/ElectronicJournal/src/main/java/com/teamo/ejournal/core/ArticleUploadController.java
+END
+ReviewerController.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/geosvn/!svn/ver/220/ElectronicJournal/src/main/java/com/teamo/ejournal/core/ReviewerController.java
+END

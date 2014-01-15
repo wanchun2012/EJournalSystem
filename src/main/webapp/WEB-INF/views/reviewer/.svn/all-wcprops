@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geosvn/!svn/ver/228/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer
+END
+review.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geosvn/!svn/ver/228/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/review.jsp
+END
+submitrev-outcome-fail-json.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geosvn/!svn/ver/151/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/submitrev-outcome-fail-json.jsp
+END
+rev-submission-form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geosvn/!svn/ver/160/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/rev-submission-form.jsp
+END
+upload-outcome-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geosvn/!svn/ver/198/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/upload-outcome-success.jsp
+END
+submit-review.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geosvn/!svn/ver/160/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/submit-review.jsp
+END
+upload-outcome-fail-json.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geosvn/!svn/ver/198/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/upload-outcome-fail-json.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geosvn/!svn/ver/211/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/index.jsp
+END
+status.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geosvn/!svn/ver/224/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/status.jsp
+END
+download-outcome-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geosvn/!svn/ver/146/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/download-outcome-success.jsp
+END
+upload-outcome-fail-file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geosvn/!svn/ver/198/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/upload-outcome-fail-file.jsp
+END
+articlereviewselect-fail-json.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geosvn/!svn/ver/228/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/articlereviewselect-fail-json.jsp
+END
+submitrev-outcome-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/geosvn/!svn/ver/228/ElectronicJournal/src/main/webapp/WEB-INF/views/reviewer/submitrev-outcome-success.jsp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/geosvn/!svn/ver/214/ElectronicJournal/src/main/webapp/WEB-INF/spring
+END
+spring-hibernate-mysql.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/geosvn/!svn/ver/7/ElectronicJournal/src/main/webapp/WEB-INF/spring/spring-hibernate-mysql.xml
+END
+spring-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geosvn/!svn/ver/83/ElectronicJournal/src/main/webapp/WEB-INF/spring/spring-security.xml
+END
+root-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geosvn/!svn/ver/214/ElectronicJournal/src/main/webapp/WEB-INF/spring/root-context.xml
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geosvn/!svn/ver/225/ElectronicJournal/src/main/java/com/teamo/ejournal/orm
+END
+ArticleVersionDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/125/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/ArticleVersionDetails.java
+END
+ArticleReviewCommentResponseDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/geosvn/!svn/ver/105/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/ArticleReviewCommentResponseDetails.java
+END
+ArticleKeywordDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/105/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/ArticleKeywordDetails.java
+END
+SubscribeMailingList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geosvn/!svn/ver/105/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/SubscribeMailingList.java
+END
+UserEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geosvn/!svn/ver/107/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/UserEntity.java
+END
+ArticleReaderCommentDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geosvn/!svn/ver/125/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/ArticleReaderCommentDetails.java
+END
+ArticleReaderCommentResponseDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/geosvn/!svn/ver/125/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/ArticleReaderCommentResponseDetails.java
+END
+JournalSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geosvn/!svn/ver/195/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/JournalSetting.java
+END
+ArticleContactDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/105/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/ArticleContactDetails.java
+END
+Journal.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geosvn/!svn/ver/195/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/Journal.java
+END
+Role.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geosvn/!svn/ver/105/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/Role.java
+END
+Article.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geosvn/!svn/ver/225/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/Article.java
+END
+ArticleReviewDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geosvn/!svn/ver/224/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/ArticleReviewDetails.java
+END
+ArticleReviewCommentDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geosvn/!svn/ver/224/ElectronicJournal/src/main/java/com/teamo/ejournal/orm/ArticleReviewCommentDetails.java
+END

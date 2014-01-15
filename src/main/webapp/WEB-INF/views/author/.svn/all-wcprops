@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geosvn/!svn/ver/230/ElectronicJournal/src/main/webapp/WEB-INF/views/author
+END
+submitrevanswers-outcome-fail-json.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/geosvn/!svn/ver/230/ElectronicJournal/src/main/webapp/WEB-INF/views/author/submitrevanswers-outcome-fail-json.jsp
+END
+upload-outcome-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/230/ElectronicJournal/src/main/webapp/WEB-INF/views/author/upload-outcome-success.jsp
+END
+upload-outcome-fail-json.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geosvn/!svn/ver/230/ElectronicJournal/src/main/webapp/WEB-INF/views/author/upload-outcome-fail-json.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geosvn/!svn/ver/211/ElectronicJournal/src/main/webapp/WEB-INF/views/author/index.jsp
+END
+status.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geosvn/!svn/ver/230/ElectronicJournal/src/main/webapp/WEB-INF/views/author/status.jsp
+END
+upload-outcome-fail-file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geosvn/!svn/ver/116/ElectronicJournal/src/main/webapp/WEB-INF/views/author/upload-outcome-fail-file.jsp
+END
+submitrevanswers-outcome-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/geosvn/!svn/ver/230/ElectronicJournal/src/main/webapp/WEB-INF/views/author/submitrevanswers-outcome-success.jsp
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geosvn/!svn/ver/222/ElectronicJournal/src/main/java/com/teamo/ejournal/service
+END
+ReviewerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geosvn/!svn/ver/222/ElectronicJournal/src/main/java/com/teamo/ejournal/service/ReviewerServiceImpl.java
+END
+ArticleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/geosvn/!svn/ver/157/ElectronicJournal/src/main/java/com/teamo/ejournal/service/ArticleServiceImpl.java
+END
+UserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/geosvn/!svn/ver/136/ElectronicJournal/src/main/java/com/teamo/ejournal/service/UserServiceImpl.java
+END
+AuthorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/172/ElectronicJournal/src/main/java/com/teamo/ejournal/service/AuthorServiceImpl.java
+END
+EditorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geosvn/!svn/ver/220/ElectronicJournal/src/main/java/com/teamo/ejournal/service/EditorServiceImpl.java
+END
+ReaderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/geosvn/!svn/ver/80/ElectronicJournal/src/main/java/com/teamo/ejournal/service/ReaderServiceImpl.java
+END

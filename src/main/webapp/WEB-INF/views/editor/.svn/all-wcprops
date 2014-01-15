@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geosvn/!svn/ver/228/ElectronicJournal/src/main/webapp/WEB-INF/views/editor
+END
+updatesettings-outcome-success.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geosvn/!svn/ver/228/ElectronicJournal/src/main/webapp/WEB-INF/views/editor/updatesettings-outcome-success.jsp
+END
+add-editor-form.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geosvn/!svn/ver/154/ElectronicJournal/src/main/webapp/WEB-INF/views/editor/add-editor-form.jsp
+END
+journal-settings.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/geosvn/!svn/ver/228/ElectronicJournal/src/main/webapp/WEB-INF/views/editor/journal-settings.jsp
+END
+retire.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geosvn/!svn/ver/154/ElectronicJournal/src/main/webapp/WEB-INF/views/editor/retire.jsp
+END
+updatesettings-outcome-fail-json.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geosvn/!svn/ver/98/ElectronicJournal/src/main/webapp/WEB-INF/views/editor/updatesettings-outcome-fail-json.jsp
+END
+home.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geosvn/!svn/ver/225/ElectronicJournal/src/main/webapp/WEB-INF/views/editor/home.jsp
+END
+updatesettings-outcome-fail-file.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geosvn/!svn/ver/98/ElectronicJournal/src/main/webapp/WEB-INF/views/editor/updatesettings-outcome-fail-file.jsp
+END
+userslit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geosvn/!svn/ver/154/ElectronicJournal/src/main/webapp/WEB-INF/views/editor/userslit.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geosvn/!svn/ver/211/ElectronicJournal/src/main/webapp/WEB-INF/views/editor/index.jsp
+END
